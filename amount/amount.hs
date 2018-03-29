@@ -1,6 +1,6 @@
 amount:: Int -> Float -> Float 
 
-amount n x {--n plh8os suskeuasiwn, x timh ths ka8e suskeuasias--}
+amount n x 
 
 	|n <= 0 || x <= 0 = 0
 	
