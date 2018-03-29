@@ -11,4 +11,4 @@ A large chain store implements a promotional policy to increase sales of its pro
 
 ----------------
 
-The function amount takes as argument the total number of packages of the product, and returns the total cost resulting from the shopping policy of the chain store.
+The function "amount" takes as argument the total number of packages of the product, and returns the total cost resulting from the shopping policy of the chain store.
